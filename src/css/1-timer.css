@@ -42,13 +42,9 @@
   color: #2e2f42;
 }
 
-/* .label {
+.label {
   font-family: var(--font-family);
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  color: #2e2f42;
-} */
+}
 
 /* #datetime-picker {
   font-family: var(--font-family);
